@@ -1,5 +1,3 @@
-# DSC680_project2
-
 # Tech Salary Analysis
 
 ## Research Questions:
